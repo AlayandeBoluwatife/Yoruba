@@ -1,0 +1,23 @@
+h1{
+    color:rosybrown;
+    font-family: 'Trebuchet MS', sans-serif;
+}
+ h2{
+    color:aqua;
+ }
+
+.yoruba{
+    color: brown;
+    font-weight: 200;
+    font-family: sans-serif;
+}
+#omo{
+    color: mediumpurple;
+}
+img{
+    height:200px;
+    width:200px;
+}
+*{
+    background-color: beige;
+}
